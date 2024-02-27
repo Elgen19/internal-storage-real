@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Internal Storage</string>
+    <string name="retrieve">Retrieve</string>
+    <string name="save">Save</string>
+    <string name="write_text_here">Write text here</string>
+    <string name="retrieved_text_goes_here">Retrieved text goes here</string>
+</resources>
